@@ -12,8 +12,6 @@ This is a simple implementation of the classic Tic-Tac-Toe (XO) game using Pytho
     - [Function Implementation](#function-implementation)
     - [Regex and Game Logic](#regex-and-game-logic)
 4. [Contributing](#contributing)
-5. [License](#license)
-
 ## Features
 
 - Two-player mode with UI interactions.
